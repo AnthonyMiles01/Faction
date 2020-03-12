@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FactionWar:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be719fe6-6312-4429-b821-4927978e58eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1THpILh8QEAbF6p52oXGpYhmzuS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="factionwar" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be719fe6-6312-4429-b821-4927978e58eb" name="Default Changelist" comment="" />
+      <created>1573126794466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573126794466</updated>
+      <workItem from="1573126798716" duration="3425000" />
+      <workItem from="1573727178474" duration="6652000" />
+      <workItem from="1574331918250" duration="610000" />
+      <workItem from="1574332733618" duration="6831000" />
+      <workItem from="1574344090800" duration="59000" />
+      <workItem from="1574344177971" duration="1819000" />
+      <workItem from="1574383045216" duration="1984000" />
+      <workItem from="1574589654246" duration="874000" />
+      <workItem from="1574911643636" duration="1876000" />
+      <workItem from="1574938700113" duration="6635000" />
+      <workItem from="1575543735880" duration="5484000" />
+      <workItem from="1576146680276" duration="6046000" />
+      <workItem from="1576751298695" duration="6697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="19" key="#Project_Structure" timestamp="1578569070511">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="19" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1578569070511" />
+    <state x="446" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1577962871553">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="446" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1577962871553" />
+    <state x="213" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577964709354">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="213" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1577964709354" />
+    <state x="435" y="221" width="408" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578571646759">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="435" y="221" width="408" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1578571646759" />
+    <state x="314" y="77" key="FileChooserDialogImpl" timestamp="1578569153958">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="314" y="77" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578569153958" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1578568462839">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1578568462839" />
+    <state x="341" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1578566105942">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="341" y="186" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1578566105942" />
+    <state x="65" y="0" key="new project wizard" timestamp="1580814382709">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1580814382709" />
+    <state x="304" y="43" width="672" height="678" key="search.everywhere.popup" timestamp="1578572426897">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="304" y="43" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1578572426897" />
+  </component>
+</project>

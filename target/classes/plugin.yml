@@ -1,0 +1,11 @@
+name: FactionWar
+main: FWmain.FactionWar
+version: 1.1[BETA]
+
+commands:
+  test:
+    description: IDKIDKIDKIDKIDKIDKIDKIDKIDKIDKIDK
+  FWAP:
+    description: Addplayer
+  sort:
+    description: Sort
